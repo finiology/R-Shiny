@@ -91,7 +91,7 @@ Contributions are welcome! Feel free to:
 
 ## 🙌 Acknowledgements
 
-Built with ❤️ by a time series and R enthusiast.  
+Built by a time series and R enthusiast.  
 Inspired by academic projects and a desire to make statistics more interactive and accessible.
 
 ---
